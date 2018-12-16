@@ -1,2 +1,2 @@
 # Screenshot
-![Site Image](https://raw.githubusercontent.com/XEGARE/NewYearSite/master/newYearSiteScreenshot.jpg)
+![Site Image](https://raw.githubusercontent.com/XEGARE/NewYearWebSite/master/newYearSiteScreenshot.jpg)
